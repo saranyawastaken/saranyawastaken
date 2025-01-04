@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram @saranyawastaken
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i can speak upto 5 languages!
+- ⚡ Fun fact: i can speak upto 4 languages!
 
 <!---
 saranyawastaken/saranyawastaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
